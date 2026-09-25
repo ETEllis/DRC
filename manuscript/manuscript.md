@@ -117,19 +117,19 @@ The identifiers and direct links below match the repository's machine-readable [
 
 [S01] Kim et al. (2023). Molecular basis and genetic testing strategies for diagnosing 21-hydroxylase deficiency, including CAH-X syndrome. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37401054/).\
 [S02] Sekar et al. (2016). Schizophrenia risk from complex variation of complement component 4. *Nature*. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26814963/).\
-[S03] Demontis et al. (2023). Genome-wide analyses of ADHD identify 27 risk loci. *Nature Genetics*. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36702997/).\
+[S03] Demontis et al. (2023). Genome-wide analyses of ADHD identify 27 risk loci, refine the genetic architecture and implicate several cognitive domains. *Nature Genetics*. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36702997/).\
 [S04] McGowan et al. (2009). Epigenetic regulation of the glucocorticoid receptor in human brain associates with childhood abuse. *Nature Neuroscience*. [PubMed](https://pubmed.ncbi.nlm.nih.gov/19234457/).\
-[S05] Ramo-Fernández et al. (2019). Effects of childhood maltreatment on epigenetic regulation: an intergenerational approach. *Scientific Reports*. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31000782/).\
+[S05] Ramo-Fernández et al. (2019). The effects of childhood maltreatment on epigenetic regulation of stress-response associated genes: an intergenerational approach. *Scientific Reports*. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31000782/).\
 [S06] Bierer et al. (2020). Intergenerational Effects of Maternal Holocaust Exposure on FKBP5 Methylation. *American Journal of Psychiatry*. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32312110/).\
-[S07] Metin et al. (2012). A meta-analytic study of event-rate effects on Go/No-Go performance in ADHD. *Biological Psychiatry*. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23062355/).\
+[S07] Metin et al. (2012). A meta-analytic study of event rate effects on Go/No-Go performance in attention-deficit/hyperactivity disorder. *Biological Psychiatry*. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23062355/).\
 [S08] Barack et al. (2024). Attention deficits linked with proclivity to explore while foraging. *Proceedings of the Royal Society B*. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38378153/).\
 [S09] Samson et al. (2017). Chronotype variation drives night-time sentinel-like behaviour in hunter-gatherers. *Proceedings of the Royal Society B*. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28701566/).\
-[S10] Eroglu et al. (2009). The gabapentin receptor α₂δ-1 is a neuronal thrombospondin receptor responsible for excitatory CNS synaptogenesis. *Cell*. [PubMed](https://pubmed.ncbi.nlm.nih.gov/19818485/).\
+[S10] Eroglu et al. (2009). Gabapentin receptor α₂δ-1 is a neuronal thrombospondin receptor responsible for excitatory CNS synaptogenesis. *Cell*. [PubMed](https://pubmed.ncbi.nlm.nih.gov/19818485/).\
 [S11] Nieto-Rostro et al. (2023). Nerve injury increases native CaV2.2 trafficking in dorsal root ganglion mechanoreceptors. *Pain*. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36524581/).\
 [S12] Schlick et al. (2010). Voltage-activated calcium channel expression profiles in mouse brain and cultured hippocampal neurons. *Neuroscience*. [PubMed](https://pubmed.ncbi.nlm.nih.gov/20188150/).\
-[S13] El-Awaad et al. (2019). Direct, gabapentin-insensitive interaction of soluble α₂δ-1 with thrombospondin-4. *Scientific Reports*. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31700036/).\
+[S13] El-Awaad et al. (2019). Direct, gabapentin-insensitive interaction of a soluble form of the calcium channel subunit α₂δ-1 with thrombospondin-4. *Scientific Reports*. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31700036/).\
 [S14] Doshi and Hauser (2024). Generative AI enhances individual creativity but reduces the collective diversity of novel content. *Science Advances*. [DOI](https://doi.org/10.1126/sciadv.adn5290).\
-[S15] Hull et al. (2019). Development and Validation of the Camouflaging Autistic Traits Questionnaire. *Journal of Autism and Developmental Disorders*. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30361940/).\
-[S16] Celletti et al. (2020). Postural tachycardia syndrome in 102 adults with hEDS/HSD. *Monaldi Archives for Chest Disease*. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32434316/).\
+[S15] Hull et al. (2019). Development and Validation of the Camouflaging Autistic Traits Questionnaire (CAT-Q). *Journal of Autism and Developmental Disorders*. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30361940/).\
+[S16] Celletti et al. (2020). A new insight on postural tachycardia syndrome in 102 adults with hypermobile Ehlers-Danlos Syndrome/hypermobility spectrum disorder. *Monaldi Archives for Chest Disease*. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32434316/).\
 [S17] Klinger-König et al. (2019). Methylation of the FKBP5 gene in association with FKBP5 genotypes, childhood maltreatment and depression. *Neuropsychopharmacology*. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30700816/).\
 [S18] Dahimene et al. (2022). Biallelic CACNA2D1 loss-of-function variants cause early-onset developmental epileptic encephalopathy. *Brain*. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35293990/).
