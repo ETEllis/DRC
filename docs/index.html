@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#101c1b">
+  <meta name="description" content="DRC: a graded, source-linked research atlas of developmental regulatory coupling and the polymathic horizon.">
+  <title>DRC — Developmental Regulatory Coupling</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;500;600;700&family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to research</a>
+  <header class="site-header">
+    <a class="brand" href="#top" aria-label="DRC home"><span class="brand-mark">D<span class="brand-dot">•</span>RC</span><span class="brand-caption">A RESEARCH ATLAS<br>BY E. T. ELLIS</span></a>
+    <nav aria-label="Primary"><a href="#model">Model</a><a href="#evidence">Evidence</a><a href="#studies">Studies</a><a href="#sources">Sources</a></nav>
+    <a class="header-paper" href="paper.html">Read the paper <span aria-hidden="true">↗</span></a>
+  </header>
+  <main id="main">
+    <section id="top" class="hero section-wrap">
+      <div class="hero-left">
+        <div class="eyebrow"><span class="pulse"></span> WORKING RESEARCH PROGRAM <span class="slash">/</span> SEPT 2026</div>
+        <h1>Where regulation<br><em>meets the world.</em></h1>
+        <p class="hero-deck">A causal map from constitutional and perinatal biology through attention, environment, and human–AI coupling. Every consequential arrow has an evidence grade, a boundary, and a test.</p>
+        <div class="hero-actions"><a class="button primary" href="#model">Explore the model <span>↘</span></a><a class="button secondary" href="paper.html">Read the manuscript <span>↗</span></a></div>
+      </div>
+      <div class="hero-right" aria-label="A visual of multiple regulatory pathways converging and diverging">
+        <div class="orbital orbital-one"></div><div class="orbital orbital-two"></div><div class="orbital orbital-three"></div>
+        <div class="orbit-center">R<sub>c</sub><span>COUPLING</span></div>
+        <div class="orbit-note note-one">CONSTITUTION <span>01</span></div><div class="orbit-note note-two">ENVIRONMENT <span>02</span></div><div class="orbit-note note-three">CONVERSION <span>03</span></div>
+        <svg class="hero-lines" viewBox="0 0 580 500" aria-hidden="true"><path d="M28 110 C160 125 136 245 292 251 S439 120 560 142"/><path d="M18 350 C172 320 154 265 292 251 S431 392 560 364"/><path class="dashed" d="M292 251 C454 251 499 42 550 49"/></svg>
+      </div>
+      <div class="hero-bottom"><span>01 / THE CLAIM</span><p>The phenotype is one readout of a coupled history. A source beneath one node never proves the next arrow.</p><a href="#grammar">↓ THE GRADE KEY</a></div>
+    </section>
+
+    <section id="grammar" class="grammar section-wrap">
+      <div class="section-heading"><div><span class="index">01 — CLAIM GRAMMAR</span><h2>Keep the certainty visible.</h2></div><p>The atlas separates what has been observed from what the integrated theory proposes. A grade describes a particular link in a particular system.</p></div>
+      <div class="grade-grid">
+        <article class="grade-card" data-grade="A"><span class="grade-letter">A</span><span class="grade-name">Established mechanism</span><p>Direct evidence in the stated system and outcome.</p></article>
+        <article class="grade-card" data-grade="B"><span class="grade-letter">B</span><span class="grade-name">Bounded convergence</span><p>Multiple lines agree, with a population or task transfer.</p></article>
+        <article class="grade-card" data-grade="C"><span class="grade-letter">C</span><span class="grade-name">Proposed synthesis</span><p>Plausible causal path; a direct bridge test is missing.</p></article>
+        <article class="grade-card" data-grade="D"><span class="grade-letter">D</span><span class="grade-name">Horizon hypothesis</span><p>An unmeasured bridge or society-scale forecast.</p></article>
+      </div>
+    </section>
+
+    <section id="model" class="model-section">
+      <div class="section-wrap"><div class="section-heading light"><div><span class="index">02 — CAUSAL ARCHITECTURE</span><h2>A cascade with a return path.</h2></div><p>Select an arrow to inspect its evidence, transfer boundary, and strongest rival explanation. Feedback is indexed across time so the within-window graph remains acyclic.</p></div>
+      <div class="model-tools"><div class="filter-label">SHOW GRADES</div><div class="filter-group" role="group" aria-label="Filter arrows by evidence grade"><button class="filter active" data-filter="all" aria-pressed="true">All arrows</button><button class="filter" data-filter="A" aria-pressed="false">A</button><button class="filter" data-filter="B" aria-pressed="false">B</button><button class="filter" data-filter="C" aria-pressed="false">C</button><button class="filter" data-filter="D" aria-pressed="false">D</button></div><div class="model-count" id="model-count"></div></div>
+      <div class="model-layout"><div class="graph-scroll"><div class="swipe-hint">SWIPE THE GRAPH TO FOLLOW THE PATH →</div><svg id="graph" role="img" aria-label="Interactive time-indexed causal map; arrow details appear beside it" viewBox="0 0 1040 680"></svg><div class="graph-foot">SOLID = WITHIN-WINDOW PATH <span>·</span> DASHED = NEXT-WINDOW FEEDBACK <span>·</span> GRADES DESCRIBE ARROWS</div></div><aside class="edge-detail" id="edge-detail" aria-live="polite"><span class="detail-kicker">SELECT AN ARROW</span><h3>Inspect the bridge.</h3><p>Every link carries its own source and limit. Select a colored path or an arrow in the list below.</p></aside></div>
+      <div class="edge-list" id="edge-list" aria-label="Causal arrow list"></div></div>
+    </section>
+
+    <section id="evidence" class="evidence section-wrap"><div class="section-heading"><div><span class="index">03 — WHAT SURVIVES CONTACT</span><h2>Four useful constraints.</h2></div><p>The sources strengthen some pieces while narrowing the overall theory. These limits are part of the result.</p></div>
+      <div class="constraint-grid">
+        <article><span class="constraint-n">01</span><h3>Real locus. Open bridge.</h3><p>CYP21A2–TNXB disease is documented. A broad RCCX-to-attention path is not. ADHD genome-wide evidence is distributed across many loci.</p><a href="#sources" data-source="S01">See S01 + S03 ↗</a></article>
+        <article><span class="constraint-n">02</span><h3>Two α₂δ jobs.</h3><p>Channel trafficking and thrombospondin-linked synapse formation are different mechanisms. Perinatal exposure → channel timing → attention remains a proposed sequence.</p><a href="#sources" data-source="S10">See S10 + S12 ↗</a></article>
+        <article><span class="constraint-n">03</span><h3>Transmission is unresolved.</h3><p>Stress-related methylation findings vary by tissue, site, cohort, and design. A mother–infant study did not find direct transfer of its assayed marks.</p><a href="#sources" data-source="S05">See S05 + S17 ↗</a></article>
+        <article><span class="constraint-n">04</span><h3>Amplification can converge.</h3><p>AI ideas improved rated short stories in one experiment while making the stories more alike. Individual quality and collective novelty need separate tests.</p><a href="#sources" data-source="S14">See S14 ↗</a></article>
+      </div>
+      <div class="numbers"><div><strong>457</strong><span>participants in a preregistered online foraging task <small>[S08]</small></span></div><div><strong>99.8%</strong><span>sampled Hadza night epochs with someone awake or in light sleep <small>[S09]</small></span></div><div><strong>27</strong><span>ADHD risk loci in a genome-wide analysis <small>[S03]</small></span></div></div>
+      <p class="numbers-note">These figures describe the named studies, not population-wide causal effects or the integrated cascade.</p>
+    </section>
+
+    <section id="studies" class="studies"><div class="section-wrap"><div class="section-heading"><div><span class="index">04 — MAKE IT FAILABLE</span><h2>Three discriminating studies.</h2></div><p>Each study names a result that would favor a simpler rival explanation.</p></div><div class="study-grid"><article><span>PROTOCOL 01 <i>DEVELOPMENT</i></span><h3>Find the perinatal mediator.</h3><p>Pair a longitudinal birth cohort with stage-specific cellular perturbation. Measure exposure, isoform, tissue, genotype, and later outcomes separately.</p><div><b>Against the theory</b><p>The proposed mediator is absent at the predicted stage, or exposure effects vanish under family and cell-composition controls.</p></div></article><article><span>PROTOCOL 02 <i>REGULATION</i></span><h3>Run the task cross-over.</h3><p>Randomize feedback density, event rate, movement, delay, and external representations within participants. Estimate regulatory gain across task families.</p><div><b>Against the theory</b><p>The proposed orientation has no stable rank or predictive interaction beyond task preference, arousal, and diagnosis.</p></div></article><article><span>PROTOCOL 03 <i>CONVERSION</i></span><h3>Separate output from novelty.</h3><p>Randomize AI and scaffold access in mixed-skill teams. Blind-score technical quality, originality, integration, and durable uptake.</p><div><b>Against the theory</b><p>AI effects are generic, with no integration-skill interaction, or output grows while collective novelty contracts.</p></div></article></div><a class="text-link" href="paper.html#minimum-discriminating-studies">Study designs in the manuscript ↗</a></div></section>
+
+    <section id="sources" class="sources section-wrap"><div class="section-heading"><div><span class="index">05 — SOURCE LEDGER</span><h2>Follow the evidence.</h2></div><p>Primary studies and explicitly bounded reviews. Each record says what its result can support.</p></div><div class="source-bar"><label for="source-search">SEARCH SOURCES</label><input id="source-search" type="search" placeholder="Title, author, claim, or ID" autocomplete="off"><span id="source-count"></span></div><div class="source-list" id="source-list"></div></section>
+
+    <section class="source-gap section-wrap"><span class="index">PROVENANCE NOTE</span><h2>One canonical source is still missing.</h2><p>The two preserved author manuscripts are included byte-for-byte with hashes. The exact text of the named Perinatal Regulatory Initialization / α₂δ–CaV2 Extension draft was unavailable in this local workspace. This release reviews primary literature for that bridge and marks it proposed; it does not present an invented reconstruction as the author's draft.</p><a href="SHA256SUMS">View source hashes ↗</a></section>
+  </main>
+  <footer><div class="section-wrap"><div><span class="brand-mark">D<span class="brand-dot">•</span>RC</span><p>A research program with inspectable uncertainty.</p></div><div><a href="paper.html">Manuscript</a><a href="data/model.json">Model data</a><a href="data/sources.json">Source data</a></div><small>© 2026 E. T. Ellis · Version 0.1</small></div></footer>
+</body>
+</html>
