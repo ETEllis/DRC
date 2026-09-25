@@ -1,0 +1,65 @@
+[
+  {
+    "id": "P1",
+    "title": "Exposure precedes a molecular change",
+    "prediction": "A nominated, realistic perturbation changes a specified α₂δ/CaV measure before network effects.",
+    "falsifier": "Precise null in the prespecified window.",
+    "study": "A"
+  },
+  {
+    "id": "P2",
+    "title": "The hinge mediates the effect",
+    "prediction": "Selective disruption and orthogonal rescue change the exposure effect.",
+    "falsifier": "Effect persists unchanged despite successful mediator manipulation.",
+    "study": "A"
+  },
+  {
+    "id": "P3",
+    "title": "Measured acquisition beats a delivery label",
+    "prediction": "Strain/function measures improve held-out prediction of selected outcomes.",
+    "falsifier": "No incremental prediction after confounder control.",
+    "study": "B"
+  },
+  {
+    "id": "P4",
+    "title": "Susceptibility is an interaction",
+    "prediction": "Predefined constitutional markers modify effects in an independent cohort.",
+    "falsifier": "No replicated effect modification with adequate precision.",
+    "study": "B"
+  },
+  {
+    "id": "P5",
+    "title": "RCB predicts environmental fit",
+    "prediction": "Independently measured RCB predicts performance across randomized environments.",
+    "falsifier": "Low reliability or no incremental interaction.",
+    "study": "C"
+  },
+  {
+    "id": "P6",
+    "title": "Closure changes AI amplification",
+    "prediction": "Completion constraints improve verified output differently from unconstrained assistance.",
+    "falsifier": "Only text volume rises; completed quality or functioning does not.",
+    "study": "C"
+  },
+  {
+    "id": "P7",
+    "title": "Disgust sensitivity is a separate developmental claim",
+    "prediction": "Early ecology predicts age-appropriate pathogen avoidance prospectively.",
+    "falsifier": "No robust association after prespecified adjustments.",
+    "study": "B"
+  },
+  {
+    "id": "P8",
+    "title": "Payoff changes unevenly",
+    "prediction": "Integrative profiles gain in nominated complex environments conditional on resources.",
+    "falsifier": "No advantage in the environments the theory specifies.",
+    "study": "C"
+  },
+  {
+    "id": "P9",
+    "title": "Individual output and collective novelty diverge",
+    "prediction": "AI assistance can improve blind-rated individual artifacts while reducing between-team novelty under shared suggestions.",
+    "falsifier": "A well-powered cross-task study finds no such tradeoff or design changes eliminate it.",
+    "study": "C"
+  }
+]

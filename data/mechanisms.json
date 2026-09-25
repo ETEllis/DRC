@@ -1,0 +1,176 @@
+{
+  "layers": [
+    {
+      "id": "constitution",
+      "number": "01",
+      "title": "Constitution",
+      "subtitle": "Constraints, not destiny",
+      "description": "Measured endocrine, immune, connective-tissue and genetic variables. RCCX-specific claims are optional, testable components.",
+      "claims": [
+        "C01",
+        "C18",
+        "C20",
+        "C25"
+      ]
+    },
+    {
+      "id": "birth",
+      "number": "02",
+      "title": "Perinatal initialization",
+      "subtitle": "A multichannel transition",
+      "description": "Labor, physiology, immune/metabolic conditions, microbial acquisition and early contact are distinct exposures.",
+      "claims": [
+        "C02",
+        "C16"
+      ]
+    },
+    {
+      "id": "microbiome",
+      "number": "03",
+      "title": "Microbial inheritance",
+      "subtitle": "Strains, functions, timing",
+      "description": "Maternal gut reservoirs and later ecology shape acquisition. L. reuteri is a specific candidate, not a universal cause.",
+      "claims": [
+        "C03",
+        "C04",
+        "C05",
+        "C17"
+      ]
+    },
+    {
+      "id": "hinge",
+      "number": "04",
+      "title": "α₂δ–CaV2 hinge",
+      "subtitle": "Trafficking · synapses · release",
+      "description": "CACNA1B/CaV2.2, CACNA1A/CaV2.1 and CACNA2D family biology must retain preparation and isoform specificity.",
+      "claims": [
+        "C06",
+        "C07",
+        "C08",
+        "C09",
+        "C27"
+      ]
+    },
+    {
+      "id": "network",
+      "number": "05",
+      "title": "Network calibration",
+      "subtitle": "Activity-dependent organization",
+      "description": "Synaptic, sensory and recovery measures replace an undifferentiated idea of “high gain.”",
+      "claims": [
+        "C10",
+        "C21"
+      ]
+    },
+    {
+      "id": "phenotype",
+      "number": "06",
+      "title": "Regulatory phenotype",
+      "subtitle": "State × task × environment",
+      "description": "Regulatory Closure Bias is a proposed measurement contrast. Hunter/Farmer describes ecological fit.",
+      "claims": [
+        "C11",
+        "C14",
+        "C22",
+        "C23",
+        "C24"
+      ]
+    },
+    {
+      "id": "trajectory",
+      "number": "07",
+      "title": "Developmental trajectory",
+      "subtitle": "Reorganization and functioning",
+      "description": "Dąbrowski supplies an interpretive lens; recovery and impairment require independently defined outcomes.",
+      "claims": [
+        "C12"
+      ]
+    },
+    {
+      "id": "environment",
+      "number": "08",
+      "title": "Environment & conversion",
+      "subtitle": "Where capacity becomes output",
+      "description": "Institutions, tools, deep expertise and AI change opportunities and feed back through later experience.",
+      "claims": [
+        "C13",
+        "C15",
+        "C26"
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "from": "constitution",
+      "to": "birth",
+      "claim": "C20",
+      "label": "susceptibility · proposed"
+    },
+    {
+      "from": "birth",
+      "to": "microbiome",
+      "claim": "C03",
+      "label": "inheritance · supported"
+    },
+    {
+      "from": "birth",
+      "to": "hinge",
+      "claim": "C09",
+      "label": "endocrine / immune bridge · proposed"
+    },
+    {
+      "from": "microbiome",
+      "to": "hinge",
+      "claim": "C09",
+      "label": "microbial bridge · proposed"
+    },
+    {
+      "from": "hinge",
+      "to": "network",
+      "claim": "C06",
+      "label": "synaptogenesis · animal/cell"
+    },
+    {
+      "from": "hinge",
+      "to": "network",
+      "claim": "C07",
+      "label": "release · animal/cell"
+    },
+    {
+      "from": "network",
+      "to": "phenotype",
+      "claim": "C10",
+      "label": "cross-level mapping · proposed"
+    },
+    {
+      "from": "microbiome",
+      "to": "phenotype",
+      "claim": "C04",
+      "label": "parallel social path · mouse"
+    },
+    {
+      "from": "phenotype",
+      "to": "trajectory",
+      "claim": "C12",
+      "label": "reorganization · horizon"
+    },
+    {
+      "from": "phenotype",
+      "to": "environment",
+      "claim": "C11",
+      "label": "fit · horizon"
+    },
+    {
+      "from": "trajectory",
+      "to": "environment",
+      "claim": "C13",
+      "label": "conversion · horizon"
+    },
+    {
+      "from": "environment",
+      "to": "network",
+      "claim": "C15",
+      "label": "later exposure · feedback"
+    }
+  ]
+}

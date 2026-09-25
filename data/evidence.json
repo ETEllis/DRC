@@ -1,0 +1,413 @@
+[
+  {
+    "id": "C01",
+    "title": "Specific constitutional variants → tissue phenotype",
+    "status": "supported",
+    "grade": "E1",
+    "scope": "Human CAH-X genotype–phenotype cohort",
+    "mechanism": "CYP21A2–TNXB disruption supplies a defined endocrine/connective-tissue interface.",
+    "uncertainty": "This does not validate the broad RCCX neurodevelopmental cluster. The autonomic frequency in selected hEDS/HSD clinics cannot be generalized to all carriers.",
+    "falsifier": "A prespecified RCCX contribution must add replicated prediction beyond broader constitutional measures.",
+    "citations": [
+      "13",
+      "P1",
+      "22",
+      "33"
+    ],
+    "rival": "Other genetic and clinical pathways explain similar tissue findings outside CAH-X."
+  },
+  {
+    "id": "C02",
+    "title": "Birth conditions → AVP / copeptin response",
+    "status": "supported",
+    "grade": "E2",
+    "scope": "Human newborn cord blood",
+    "mechanism": "Delivery-associated AVP/copeptin differences are reported across human studies.",
+    "uncertainty": "An acute peripheral signal does not establish persistent neural calibration; OXT is not interchangeable.",
+    "falsifier": "A persistent-developmental claim needs longitudinal effects beyond the transient birth response.",
+    "citations": [
+      "1",
+      "2"
+    ],
+    "rival": "Obstetric indication and the acute transition explain the cord signal without lasting calibration."
+  },
+  {
+    "id": "C03",
+    "title": "Maternal ecology → infant strain inheritance",
+    "status": "supported",
+    "grade": "E1",
+    "scope": "Human mother–infant longitudinal cohort",
+    "mechanism": "Maternal gut reservoirs, delivery, feeding and subsequent contacts shape measured strain acquisition.",
+    "uncertainty": "Delivery label is a proxy; observational transmission does not establish a behavioral effect.",
+    "falsifier": "The nominated strain/function fails to add held-out prediction of prespecified outcomes.",
+    "citations": [
+      "3"
+    ],
+    "rival": "Delivery mode is a marker for feeding, maternal reservoirs, antibiotics, and household ecology."
+  },
+  {
+    "id": "C04",
+    "title": "L. reuteri → vagus / OXT / VTA social plasticity",
+    "status": "established",
+    "grade": "E3",
+    "scope": "Mouse ASD-related models",
+    "mechanism": "Vagal integrity and oxytocin signaling participate in experimentally observed social-behavior rescue.",
+    "uncertainty": "The complete pathway has not been causally demonstrated in humans.",
+    "falsifier": "Replicated pathway-specific disruption fails to alter the effect in the nominated preparation.",
+    "citations": [
+      "4"
+    ],
+    "rival": "Other microbial metabolites or immune routes mediate the mouse social effect."
+  },
+  {
+    "id": "C05",
+    "title": "L. reuteri formulation → selected human outcomes",
+    "status": "supported",
+    "grade": "E4",
+    "scope": "Pilot trials: children; adolescents/adults",
+    "mechanism": "Human trials provide limited social or adaptive-behavior signals.",
+    "uncertainty": "Global autism severity is not consistently improved; human OXT/vagus mediation remains unproven.",
+    "falsifier": "Adequately powered replication fails on prespecified social outcomes.",
+    "citations": [
+      "5",
+      "6"
+    ],
+    "rival": "Trial-specific formulation effects, chance, or multiple endpoints explain the selected benefit."
+  },
+  {
+    "id": "C06",
+    "title": "Thrombospondin–α₂δ-1 → synaptogenesis",
+    "status": "established",
+    "grade": "E3",
+    "scope": "Rodent neural preparations and developing mouse cortex",
+    "mechanism": "α₂δ-1 participates in excitatory synapse formation; postsynaptic Rac1 is mechanistically implicated.",
+    "uncertainty": "Not identical to presynaptic trafficking; not a demonstrated consequence of birth mode. A later binding assay found soluble TSP4–α₂δ-1 binding was gabapentin-insensitive; binding and synapse outcomes must be separated.",
+    "falsifier": "Orthogonal replication fails for the specified receptor-dependent synaptogenic effect.",
+    "citations": [
+      "10",
+      "11",
+      "31"
+    ],
+    "rival": "Thrombospondin signaling acts through downstream partners independently of CaV trafficking."
+  },
+  {
+    "id": "C07",
+    "title": "α₂δ maturation → release regulation",
+    "status": "established",
+    "grade": "E3",
+    "scope": "Experimentally manipulated neuronal culture",
+    "mechanism": "Proteolytic maturation of α₂δ affects channel association and vesicular release probability.",
+    "uncertainty": "No verified human perinatal cleavage abnormality is inferred.",
+    "falsifier": "Selective maturation manipulation fails to reproduce the release effect in the claimed preparation.",
+    "citations": [
+      "12"
+    ],
+    "rival": "Other maturation proteins or activity-dependent changes explain release regulation."
+  },
+  {
+    "id": "C08",
+    "title": "Development → channel contribution reallocation",
+    "status": "established",
+    "grade": "E3",
+    "scope": "Rat auditory brainstem, postnatal days 4–14",
+    "mechanism": "Presynaptic channel contributions change during development in the studied synapse.",
+    "uncertainty": "Not a universal brain switch, a human-age calibration, or proof of arrested development. Mouse expression profiling found stage- and region-specific programs; one activity-blockade condition did not alter the measured expression profile.",
+    "falsifier": "Within-preparation replication contradicts the specified temporal change.",
+    "citations": [
+      "8",
+      "30"
+    ],
+    "rival": "Intrinsic developmental programs explain the channel shift without the nominated exposure."
+  },
+  {
+    "id": "C09",
+    "title": "Perinatal signals → α₂δ–CaV2 state",
+    "status": "proposed",
+    "grade": "E0",
+    "scope": "Target developmental stage must be specified",
+    "mechanism": "Endocrine, immune or microbial signals might alter channel organization and synaptogenesis.",
+    "uncertainty": "This is the main missing bridge. Molecular plausibility does not demonstrate it.",
+    "falsifier": "Precise null exposure effects, or failed mediator disruption/rescue, weaken the nominated bridge.",
+    "citations": [
+      "P3",
+      "10",
+      "12"
+    ],
+    "rival": "Early exposure affects networks through a pathway that bypasses α₂δ/CaV2."
+  },
+  {
+    "id": "C10",
+    "title": "Network calibration → regulatory phenotype",
+    "status": "proposed",
+    "grade": "E0",
+    "scope": "Cross-level developmental hypothesis",
+    "mechanism": "Synaptic organization may influence later sensory, autonomic and affiliative regulation.",
+    "uncertainty": "The integrated mapping lacks direct longitudinal validation; many bypasses are possible.",
+    "falsifier": "The specified network measures fail to predict or mediate the targeted outcome.",
+    "citations": [
+      "P1",
+      "P3",
+      "9",
+      "14",
+      "15"
+    ],
+    "rival": "Ongoing sleep, pain, reward and social learning explain later regulation without an early molecular mediator."
+  },
+  {
+    "id": "C11",
+    "title": "Regulatory phenotype × environment → closure",
+    "status": "horizon",
+    "grade": "E0",
+    "scope": "Proposed repeated human task measures",
+    "mechanism": "RCB compares positive external and internal regulatory gains on the same scale.",
+    "uncertainty": "Not a validated trait, diagnosis, or normative scoring tool.",
+    "falsifier": "Poor reliability or no incremental out-of-sample interaction beyond conventional measures.",
+    "citations": [
+      "P1",
+      "P2",
+      "16"
+    ],
+    "rival": "Conventional arousal, executive function or reward sensitivity explains task-dependent gains."
+  },
+  {
+    "id": "C12",
+    "title": "Regulation + context → developmental reorganization",
+    "status": "horizon",
+    "grade": "E0",
+    "scope": "Dąbrowski-inspired developmental interpretation",
+    "mechanism": "Different support and load trajectories may produce recovery, reorganization or persistent impairment.",
+    "uncertainty": "The bifurcation is not an established biological stage model; outcomes are not moral ranks.",
+    "falsifier": "Operationalized trajectories fail to replicate or the construct adds no value over alternatives.",
+    "citations": [
+      "P1",
+      "17"
+    ],
+    "rival": "Resources, support and treatment explain trajectories without a discrete reorganization process."
+  },
+  {
+    "id": "C13",
+    "title": "Human–AI coupling → conversion and dissemination",
+    "status": "horizon",
+    "grade": "E0",
+    "scope": "Proposed task- and resource-dependent interaction",
+    "mechanism": "Responsive tools may reduce implementation costs but can increase branching and dependence.",
+    "uncertainty": "AI writing evidence does not establish an RCB-specific advantage or civilizational inversion.",
+    "falsifier": "Independent RCB fails to predict the nominated environment interaction on verified completed output.",
+    "citations": [
+      "P2",
+      "21"
+    ],
+    "rival": "Generic AI assistance and unequal opportunity explain output changes without phenotype-specific selection."
+  },
+  {
+    "id": "C14",
+    "title": "Early immune ecology → disgust sensitivity calibration",
+    "status": "horizon",
+    "grade": "E0",
+    "scope": "Unverified developmental bridge",
+    "mechanism": "Early immune/microbial conditions might influence later pathogen avoidance.",
+    "uncertainty": "Adult disgust associations do not establish early microbial causation or political consequences.",
+    "falsifier": "No replicated prospective relationship with age-appropriate germ-aversion measures.",
+    "citations": [
+      "P3",
+      "7"
+    ],
+    "rival": "Current learning and culture explain disgust variation without early microbial calibration."
+  },
+  {
+    "id": "C15",
+    "title": "Phenotype → selected environment → later phenotype",
+    "status": "proposed",
+    "grade": "E0",
+    "scope": "Time-indexed feedback hypothesis",
+    "mechanism": "Actions change subsequent exposure, reinforcement and support, feeding into later regulation.",
+    "uncertainty": "A cyclic diagram is not an identified causal model; time-order and confounding matter.",
+    "falsifier": "Time-indexed interventions and predictions fail against a nonfeedback alternative.",
+    "citations": [
+      "P1",
+      "P2"
+    ],
+    "rival": "Stable traits and environments jointly cause behavior and exposure without strong selection feedback."
+  },
+  {
+    "id": "C16",
+    "title": "Birth mode → categorical ASD / ADHD",
+    "status": "supported",
+    "grade": "E1",
+    "scope": "Human observational counterevidence",
+    "mechanism": "Fully adjusted NHS II estimates are compatible with no association.",
+    "uncertainty": "Null categorical effects constrain broad claims; they do not test every dimensional mediator.",
+    "falsifier": "A well-identified replicated causal estimate would change this assessment.",
+    "citations": [
+      "19"
+    ],
+    "role": "counterevidence",
+    "rival": "Confounding explains crude birth-mode associations; adjusted categorical effects are near null."
+  },
+  {
+    "id": "C17",
+    "title": "VMT assignment → 12-month social-emotional score",
+    "status": "supported",
+    "grade": "E4",
+    "scope": "Pilot infant trial",
+    "mechanism": "Randomized VMT versus saline favored a social-emotional score; global ASQ-3 was not significant.",
+    "uncertainty": "No identified strain or α₂δ mediator; vaginal reference group was not randomized.",
+    "falsifier": "Larger preregistered replication fails to confirm the specific outcome.",
+    "citations": [
+      "20"
+    ],
+    "rival": "The intervention affects social scores through a pathway independent of the named organism or molecular hinge."
+  },
+  {
+    "id": "C18",
+    "title": "RCCX susceptibility → α₂δ hinge",
+    "status": "proposed",
+    "grade": "E0",
+    "scope": "No direct evidence located in this pass",
+    "mechanism": "Constitution could modify sensitivity to developmental perturbation.",
+    "uncertainty": "Specific RCCX-to-channel mediation is unproven; genomic proximity is insufficient. ADHD GWAS is polygenic; a C4 schizophrenia result does not establish this neurodevelopmental bridge.",
+    "falsifier": "No prespecified RCCX interaction or incremental prediction in independent cohorts.",
+    "citations": [
+      "P1",
+      "P3",
+      "13",
+      "22",
+      "23",
+      "24"
+    ],
+    "rival": "Distributed genetic architecture and independent perinatal factors explain the data without an RCCX–hinge link."
+  },
+  {
+    "id": "C19",
+    "title": "Phenibut pharmacology → hypothesis generation",
+    "status": "established",
+    "grade": "E3",
+    "scope": "Experimental binding and animal pharmacology",
+    "mechanism": "R-phenibut has α₂δ and GABA-B pharmacological activity.",
+    "uncertainty": "Adult response does not diagnose a target-specific or developmental lesion.",
+    "falsifier": "The developmental inference is not identified by a response; it requires independent tests.",
+    "citations": [
+      "18",
+      "P3"
+    ],
+    "role": "provenance",
+    "rival": "GABA-B effects, expectancy, or current state explain an adult response without developmental α₂δ pathology."
+  },
+  {
+    "id": "C20",
+    "title": "Constitution × perinatal conditions → initialization",
+    "status": "proposed",
+    "grade": "E0",
+    "scope": "Unverified integrated developmental interaction",
+    "mechanism": "Measured constitutional factors may change responses to perinatal exposures.",
+    "uncertainty": "The broad interaction is not established by CAH-X or molecular synapse studies.",
+    "falsifier": "Prespecified constitutional effect modification fails in adequately precise independent studies.",
+    "citations": [
+      "P1",
+      "P3",
+      "13"
+    ],
+    "rival": "Constitution and perinatal conditions contribute additively, with no specific interaction."
+  },
+  {
+    "id": "C21",
+    "title": "Early adversity ↔ stress-regulatory methylation",
+    "status": "supported",
+    "grade": "E1",
+    "scope": "Human postmortem and blood observational studies; tissue and age differ",
+    "mechanism": "Adversity history is associated with some NR3C1 or FKBP5 methylation and expression measures in selected samples.",
+    "uncertainty": "A 113-dyad study found no direct transfer at assayed newborn sites, and a 3,965-person population study did not replicate a maltreatment interaction. This cannot identify a universal inherited mark.",
+    "falsifier": "Prospective, cell-composition-aware replication should show the nominated site and direction across independent cohorts.",
+    "rival": "Genotype, cell mixture, current illness, shared environment, and selection explain the associations.",
+    "citations": [
+      "15",
+      "25",
+      "26",
+      "34"
+    ]
+  },
+  {
+    "id": "C22",
+    "title": "Task event rate → attention performance",
+    "status": "supported",
+    "grade": "E2",
+    "scope": "Go/No-Go ADHD task meta-analysis; not a general personality scale",
+    "mechanism": "Slow event rates disproportionately slowed ADHD groups; fast rates increased commission-error effects in the reviewed tasks.",
+    "uncertainty": "General ADHD–control differences persisted and reaction-time variability did not show the predicted event-rate effect.",
+    "falsifier": "Matched within-person task crossovers fail to reproduce event-rate interactions beyond task demands.",
+    "rival": "Specific task learning or reward expectations, rather than regulatory closure, explain the pattern.",
+    "citations": [
+      "27"
+    ]
+  },
+  {
+    "id": "C23",
+    "title": "Camouflaging is measurable; broad masking remains a bridge",
+    "status": "supported",
+    "grade": "E1",
+    "scope": "Autistic adult psychometric samples",
+    "mechanism": "The CAT-Q measured reported social camouflaging in autistic and non-autistic adults.",
+    "uncertainty": "This does not prove unconscious homeostatic masking across ADHD, trauma, or other phenotypes.",
+    "falsifier": "Longitudinal behavioral and physiological measures fail to distinguish generalized masking from social learning.",
+    "rival": "Conventional social adaptation and context account for reported strategies.",
+    "citations": [
+      "32"
+    ]
+  },
+  {
+    "id": "C24",
+    "title": "Chronotype diversity → group-level nighttime coverage",
+    "status": "supported",
+    "grade": "E1",
+    "scope": "Hadza actigraphy, 20 days; no ADHD measure",
+    "mechanism": "At least one group member was scored awake or in light sleep in 99.8% of sampled nighttime epochs.",
+    "uncertainty": "The result supports group-level heterogeneity, not an ADHD subtype or general adaptive superiority.",
+    "falsifier": "Comparable groups with mixed age and chronotype fail to show the predicted coverage.",
+    "rival": "Age structure and ordinary awakenings explain the coverage without a specialized vigilance trait.",
+    "citations": [
+      "28"
+    ]
+  },
+  {
+    "id": "C25",
+    "title": "Hypermobility cohorts show heterogeneous autonomic profiles",
+    "status": "supported",
+    "grade": "E1",
+    "scope": "Selected 102-person hEDS/HSD adult clinical cohort",
+    "mechanism": "Autonomic testing identified varied profiles including POTS in 48% of this selected sample.",
+    "uncertainty": "The figure is not a general-population prevalence and does not demonstrate RCCX, perinatal or α₂δ mediation.",
+    "falsifier": "Population-based cohorts fail to reproduce an autonomic association under prespecified diagnostic criteria.",
+    "rival": "Referral selection and comorbidity explain the high clinical frequency.",
+    "citations": [
+      "33"
+    ]
+  },
+  {
+    "id": "C26",
+    "title": "AI ideas → individual story gains and collective similarity",
+    "status": "established",
+    "grade": "E4",
+    "scope": "Randomized short-story writing experiment",
+    "mechanism": "Access to AI ideas improved average rated stories while AI-assisted stories were more similar to each other.",
+    "uncertainty": "The study does not establish benefit for scientific discovery, integrative phenotypes, or society-wide change.",
+    "falsifier": "Preregistered replication on completed research artifacts finds no individual-quality or diversity contrast.",
+    "rival": "Task-specific anchoring explains similarity without a general AI effect.",
+    "citations": [
+      "21"
+    ]
+  },
+  {
+    "id": "C27",
+    "title": "Severe CACNA2D1 loss → impaired CaV2 function",
+    "status": "supported",
+    "grade": "E3",
+    "scope": "Two rare human cases plus functional assays",
+    "mechanism": "Biallelic loss-of-function variants were linked to early epileptic encephalopathy and impaired CaV2 trafficking in assays.",
+    "uncertainty": "Rare severe variants do not identify effects of common variation or ordinary perinatal exposure.",
+    "falsifier": "Independent variant studies and orthogonal functional assays fail to reproduce the trafficking deficit.",
+    "rival": "Other variants or pathways explain the clinical phenotype in these cases.",
+    "citations": [
+      "35"
+    ]
+  }
+]

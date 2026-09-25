@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">The Developmental Regulatory Cascade</title>
+  <desc id="desc">A light editorial banner with a graded causal path and a returning feedback line.</desc>
+  <rect width="1200" height="300" fill="#f4f1e9"/>
+  <path d="M0 299H1200" stroke="#bfcabd"/>
+  <text x="70" y="54" fill="#bf6947" font-family="Arial,sans-serif" font-weight="700" font-size="14" letter-spacing="3">E. T. ELLIS  /  RESEARCH ATLAS</text>
+  <text x="66" y="149" fill="#172720" font-family="Georgia,serif" font-size="61">The developmental</text>
+  <text x="66" y="216" fill="#92715b" font-family="Georgia,serif" font-size="61">regulatory cascade.</text>
+  <text x="70" y="263" fill="#53635a" font-family="Arial,sans-serif" font-size="16">One architecture. Different levels of certainty.</text>
+  <g transform="translate(815 30)" fill="none" stroke-linecap="round">
+    <circle cx="180" cy="125" r="105" stroke="#c7d3c8"/>
+    <circle cx="180" cy="125" r="73" stroke="#aac4b5" stroke-dasharray="4 8"/>
+    <circle cx="180" cy="125" r="39" fill="#19372f" stroke="#19372f"/>
+    <path d="M20 57 C80 58 86 125 141 125 S250 66 330 79" stroke="#bf6947" stroke-width="2"/>
+    <path d="M25 208 C96 193 103 140 141 125 S257 207 326 196" stroke="#408a82" stroke-width="2"/>
+    <path d="M328 196 C349 259 8 260 20 57" stroke="#a48aa3" stroke-width="1.5" stroke-dasharray="4 7"/>
+    <circle cx="20" cy="57" r="4" fill="#bf6947"/>
+    <circle cx="328" cy="196" r="4" fill="#408a82"/>
+    <text x="165" y="134" fill="#f4f1e9" font-family="Georgia,serif" font-size="30" stroke="none">R<tspan baseline-shift="sub" font-size="13">c</tspan></text>
+  </g>
+</svg>
